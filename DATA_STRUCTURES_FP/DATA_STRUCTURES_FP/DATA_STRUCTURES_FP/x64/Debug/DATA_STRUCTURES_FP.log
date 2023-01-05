@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Hassan\source\repos\DATA_STRUCTURES_FP\DATA_STRUCTURES_FP\DATA_STRUCTURES_FP\Huffman.h(155,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  charNode.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DATA_STRUCTURES_FP.vcxproj -> C:\Users\Hassan\Source\Repos\DATA_STRUCTURES_FP\DATA_STRUCTURES_FP\x64\Debug\DATA_STRUCTURES_FP.exe
